@@ -1,50 +1,44 @@
-# Welcome to your Expo app 👋
+# Um aplicativo para food delivery
+O Robefood App é um aplicativo de delivery de comida desenvolvido com React Native e Expo. Ele foi projetado para oferecer uma experiência intuitiva e eficiente para usuários que desejam explorar, selecionar e pedir refeições de forma prática.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
 
-## Get started
+# Funcionalidades
 
-1. Install dependencies
+Catálogo de Restaurantes: Navegue por uma lista de restaurantes e cardápios disponíveis.
+Sistema de Pedidos: Adicione itens ao carrinho e finalize pedidos com facilidade.
+Interface Responsiva: Compatível com dispositivos Android, iOS e navegadores web.
+Estilização Moderna: Utiliza Tailwind CSS para uma interface limpa e consistente.
+---
 
-   ```bash
+# Tecnologias Utilizadas
+
+React Native: Framework para desenvolvimento de aplicativos móveis.
+Expo: Plataforma para desenvolvimento e execução de aplicativos React Native.
+NativeWind: Integração do Tailwind CSS para estilização.
+TypeScript: Tipagem estática para maior segurança no desenvolvimento.
+
+---
+
+# Como Executar
+Instale as dependências:
    npm install
-   ```
 
-2. Start the app
+Inicie o servidor de desenvolvimento:
+   npx expo start
+---
 
-   ```bash
-    npx expo start
-   ```
+# Escolha onde executar:
 
-In the output, you'll find options to open the app in a
+Emulador Android
+Simulador iOS
+Navegador Web
+Aplicativo Expo Go
+Sobre o Projeto
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+# Sobre o Projeto
 
-## Get a fresh project
+O Robefood App foi criado para simplificar o processo de pedidos de comida, oferecendo uma solução moderna e acessível para usuários e restaurantes. Ele é ideal para quem busca praticidade e eficiência no setor de delivery.
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
