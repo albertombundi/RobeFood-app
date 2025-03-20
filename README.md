@@ -5,18 +5,19 @@ O Robefood App é um aplicativo de delivery de comida desenvolvido com React Nat
 
 # Funcionalidades
 
-Catálogo de Restaurantes: Navegue por uma lista de restaurantes e cardápios disponíveis.
-Sistema de Pedidos: Adicione itens ao carrinho e finalize pedidos com facilidade.
-Interface Responsiva: Compatível com dispositivos Android, iOS e navegadores web.
-Estilização Moderna: Utiliza Tailwind CSS para uma interface limpa e consistente.
+Catálogo de Restaurantes: Navegue por uma lista de restaurantes e cardápios disponíveis. <br>
+Sistema de Pedidos: Adicione itens ao carrinho e finalize pedidos com facilidade. <br>
+Interface Responsiva: Compatível com dispositivos Android, iOS e navegadores web. <br>
+Estilização Moderna: Utiliza Tailwind CSS para uma interface limpa e consistente. <br>
+
 ---
 
 # Tecnologias Utilizadas
 
-React Native: Framework para desenvolvimento de aplicativos móveis.
-Expo: Plataforma para desenvolvimento e execução de aplicativos React Native.
-NativeWind: Integração do Tailwind CSS para estilização.
-TypeScript: Tipagem estática para maior segurança no desenvolvimento.
+React Native: Framework para desenvolvimento de aplicativos móveis. <br>
+Expo: Plataforma para desenvolvimento e execução de aplicativos React Native. <br>
+NativeWind: Integração do Tailwind CSS para estilização. <br>
+TypeScript: Tipagem estática para maior segurança no desenvolvimento. <br>
 
 ---
 
@@ -27,15 +28,15 @@ Instale as dependências:
 
 Inicie o servidor de desenvolvimento:
    npx expo start
-   
+
 ---
 
 # Escolha onde executar:
 
-Emulador Android
-Simulador iOS
-Navegador Web
-Aplicativo Expo Go
+Emulador Android <br>
+Simulador iOS <br>
+Navegador Web <br>
+Aplicativo Expo Go <br>
 Sobre o Projeto
 
 ---
