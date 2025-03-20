@@ -8,7 +8,7 @@ O Robefood App é um aplicativo de delivery de comida desenvolvido com React Nat
 Catálogo de Restaurantes: Navegue por uma lista de restaurantes e cardápios disponíveis. <br>
 Sistema de Pedidos: Adicione itens ao carrinho e finalize pedidos com facilidade. <br>
 Interface Responsiva: Compatível com dispositivos Android, iOS e navegadores web. <br>
-Estilização Moderna: Utiliza Tailwind CSS para uma interface limpa e consistente. <br>
+Estilização Moderna: Utiliza Tailwind CSS para uma interface limpa e consistente. 
 
 ---
 
