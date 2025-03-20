@@ -27,15 +27,16 @@ O **Robefood App** é um aplicativo de delivery de comida desenvolvido com **Rea
 ## 🚀 Como Executar
 
 1. Instale as dependências:
+
    ```bash
    npm install
-   ```---
+   ```
 
-2. Inicie o servidor de desenvolvimento:
+1. Inicie o servidor de desenvolvimento:
 
    ```bash
    npx expo start
-   ```---
+   ```
 
 ## 📱 Escolha onde executar
 
