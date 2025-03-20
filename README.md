@@ -21,11 +21,13 @@ TypeScript: Tipagem estática para maior segurança no desenvolvimento.
 ---
 
 # Como Executar
+
 Instale as dependências:
    npm install
 
 Inicie o servidor de desenvolvimento:
    npx expo start
+   
 ---
 
 # Escolha onde executar:
